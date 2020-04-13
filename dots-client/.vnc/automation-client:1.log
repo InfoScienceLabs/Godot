@@ -1,0 +1,201 @@
+25/02/20 18:35:28 Xvnc version TightVNC-1.3.10
+25/02/20 18:35:28 Copyright (C) 2000-2009 TightVNC Group
+25/02/20 18:35:28 Copyright (C) 1999 AT&T Laboratories Cambridge
+25/02/20 18:35:28 All Rights Reserved.
+25/02/20 18:35:28 See http://www.tightvnc.com/ for information on TightVNC
+25/02/20 18:35:28 Desktop name 'my-vnc-server' (automation-client:1)
+25/02/20 18:35:28 Protocol versions supported: 3.3, 3.7, 3.8, 3.7t, 3.8t
+25/02/20 18:35:28 Listening for VNC connections on TCP port 5901
+Font directory '/usr/share/fonts/X11/75dpi/' not found - ignoring
+Font directory '/usr/share/fonts/X11/100dpi/' not found - ignoring
+xrdb: No such file or directory
+xrdb: can't open file '/home/client/.Xresources'
+/home/client/.vnc/xstartup: 8: /home/client/.vnc/xstartup: vncconfig: not found
+/usr/bin/startxfce4: X server already running on display :1
+Xlib:  extension "RANDR" missing on display ":1".
+gpg-agent[1179]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:1130): xfce4-session-WARNING **: 18:35:31.665: gpg-agent returned no PID in the variables
+
+(xfce4-session:1130): xfce4-session-WARNING **: 18:35:31.672: xfsm_manager_load_session: Something wrong with /home/client/.cache/sessions/xfce4-session-automation-client:1, Does it exist? Permissions issue?
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+
+(xfsettingsd:1221): xfsettingsd-CRITICAL **: 18:35:32.321: No RANDR extension found in display :1.0. Display settings won't be applied.
+
+(Thunar:1195): Gtk-WARNING **: 18:35:32.344: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:1195): Gtk-WARNING **: 18:35:32.345: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:1195): Gtk-WARNING **: 18:35:32.345: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:1130): Gtk-WARNING **: 18:35:32.350: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:1130): Gtk-WARNING **: 18:35:32.351: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:1130): Gtk-WARNING **: 18:35:32.351: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:1199): Gtk-WARNING **: 18:35:32.354: Unable to locate theme engine in module_path: "pixmap",
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+
+(xfsettingsd:1221): xfsettingsd-CRITICAL **: 18:35:32.358: XI is not present.
+
+(xfsettingsd:1221): xfsettingsd-CRITICAL **: 18:35:32.358: Failed to initialize the Xkb extension.
+
+(xfsettingsd:1221): xfsettingsd-CRITICAL **: 18:35:32.358: Failed to initialize the Accessibility extension.
+
+(xfce4-panel:1193): Gtk-WARNING **: 18:35:32.387: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:1193): Gtk-WARNING **: 18:35:32.389: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:1193): Gtk-WARNING **: 18:35:32.389: Unable to locate theme engine in module_path: "pixmap",
+Xlib:  extension "RANDR" missing on display ":1.0".
+
+(xfdesktop:1199): Gtk-WARNING **: 18:35:32.419: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:1199): Gtk-WARNING **: 18:35:32.419: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:1130): Gtk-WARNING **: 18:35:32.447: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:1130): Gtk-WARNING **: 18:35:32.447: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:1195): Gtk-WARNING **: 18:35:32.451: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:1195): Gtk-WARNING **: 18:35:32.451: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:1199): Gtk-WARNING **: 18:35:32.456: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:1199): Gtk-WARNING **: 18:35:32.456: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:1221): Gtk-WARNING **: 18:35:32.476: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:1221): Gtk-WARNING **: 18:35:32.477: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:1221): Gtk-WARNING **: 18:35:32.477: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:1193): Gtk-WARNING **: 18:35:32.480: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:1193): Gtk-WARNING **: 18:35:32.481: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:1189): xfwm4-WARNING **: 18:35:32.513: The display does not support the XRender extension.
+
+(xfwm4:1189): xfwm4-WARNING **: 18:35:32.513: The display does not support the XRandr extension.
+
+(xfwm4:1189): xfwm4-WARNING **: 18:35:32.513: The display does not support the XComposite extension.
+
+(xfwm4:1189): xfwm4-WARNING **: 18:35:32.513: The display does not support the XDamage extension.
+
+(xfwm4:1189): xfwm4-WARNING **: 18:35:32.513: The display does not support the XFixes extension.
+
+(xfwm4:1189): xfwm4-WARNING **: 18:35:32.513: Compositing manager disabled.
+
+(xfsettingsd:1221): Gtk-WARNING **: 18:35:32.536: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:1221): Gtk-WARNING **: 18:35:32.536: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:1189): Gtk-WARNING **: 18:35:32.544: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:1189): Gtk-WARNING **: 18:35:32.546: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:1189): Gtk-WARNING **: 18:35:32.577: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:1189): Gtk-WARNING **: 18:35:32.607: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:1189): Gtk-WARNING **: 18:35:32.607: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:1221): xfsettingsd-WARNING **: 18:35:32.974: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+xfwm4-Message: 18:35:33.440: Unsupported keyboard modifier '<Super>Tab'
+
+(xfwm4:1189): xfwm4-WARNING **: 18:35:33.464: Cannot find visual format on screen 0
+Xlib:  extension "RANDR" missing on display ":1.0".
+
+(wrapper-1.0:1301): Gtk-WARNING **: 18:35:33.720: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:1301): Gtk-WARNING **: 18:35:33.721: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:1301): Gtk-WARNING **: 18:35:33.721: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:1301): Gtk-WARNING **: 18:35:33.780: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:1301): Gtk-WARNING **: 18:35:33.781: Unable to locate theme engine in module_path: "pixmap",
+Xlib:  extension "RANDR" missing on display ":1.0".
+
+(wrapper-1.0:1303): Gtk-WARNING **: 18:35:33.853: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:1303): Gtk-WARNING **: 18:35:33.853: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:1303): Gtk-WARNING **: 18:35:33.854: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:1303): Gtk-WARNING **: 18:35:33.869: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:1303): Gtk-WARNING **: 18:35:33.869: Unable to locate theme engine in module_path: "pixmap",
+
+** (xfdesktop:1199): WARNING **: 18:35:44.558: Failed to set the background '/usr/share/backgrounds/xfce/xfce-teal.jpg': GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'org.freedesktop.DisplayManager.AccountsService'
+
+25/02/20 20:06:00 Got connection from client 124.123.116.229
+25/02/20 20:06:00 Using protocol version 3.8
+25/02/20 20:06:41 rfbVncAuthProcessResponse: authentication failed from 124.123.116.229
+25/02/20 20:06:41 Client 124.123.116.229 gone
+25/02/20 20:06:41 Statistics:
+25/02/20 20:06:41   framebuffer updates 0, rectangles 0, bytes 0
+
+25/02/20 20:06:43 Got connection from client 124.123.116.229
+25/02/20 20:06:43 Using protocol version 3.8
+25/02/20 20:13:22 Client 124.123.116.229 gone
+25/02/20 20:13:22 Statistics:
+25/02/20 20:13:22   framebuffer updates 0, rectangles 0, bytes 0
+
+25/02/20 20:30:38 Got connection from client 162.243.134.199
+25/02/20 20:30:48 rfbProcessClientProtocolVersion: client gone
+25/02/20 20:30:48 Client 162.243.134.199 gone
+25/02/20 20:30:48 Statistics:
+25/02/20 20:30:48   framebuffer updates 0, rectangles 0, bytes 0
+
+25/02/20 20:38:33 Got connection from client 124.123.116.229
+25/02/20 20:38:33 Using protocol version 3.8
+25/02/20 20:38:37 rfbVncAuthProcessResponse: authentication failed from 124.123.116.229
+25/02/20 20:38:37 Client 124.123.116.229 gone
+25/02/20 20:38:37 Statistics:
+25/02/20 20:38:37   framebuffer updates 0, rectangles 0, bytes 0
+
+25/02/20 20:38:39 Got connection from client 124.123.116.229
+25/02/20 20:38:39 Using protocol version 3.8
+25/02/20 20:38:41 Client 124.123.116.229 gone
+25/02/20 20:38:41 Statistics:
+25/02/20 20:38:41   framebuffer updates 0, rectangles 0, bytes 0
+
+25/02/20 20:50:31 Got connection from client 124.123.116.229
+25/02/20 20:50:31 Using protocol version 3.8
+25/02/20 20:50:44 Full-control authentication passed by 124.123.116.229
+25/02/20 20:50:44 Pixel format for client 124.123.116.229:
+25/02/20 20:50:44   8 bpp, depth 8
+25/02/20 20:50:44   true colour: max r 7 g 7 b 3, shift r 0 g 3 b 6
+25/02/20 20:50:44 Using tight encoding for client 124.123.116.229
+25/02/20 20:50:44 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+25/02/20 20:50:44 rfbProcessClientNormalMessage: ignoring unknown encoding 9
+25/02/20 20:50:44 rfbProcessClientNormalMessage: ignoring unknown encoding -65527
+25/02/20 20:50:44 Using compression level 9 for client 124.123.116.229
+25/02/20 20:50:44 Using image quality level 0 for client 124.123.116.229
+25/02/20 20:50:44 Enabling X-style cursor updates for client 124.123.116.229
+25/02/20 20:50:44 Enabling cursor position updates for client 124.123.116.229
+25/02/20 20:50:44 rfbProcessClientNormalMessage: ignoring unknown encoding -131072
+25/02/20 20:50:44 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+25/02/20 20:50:44 Enabling LastRect protocol extension for client 124.123.116.229
+25/02/20 20:50:44 rfbProcessClientNormalMessage: ignoring unknown encoding -131071
+25/02/20 20:50:44 rfbProcessClientNormalMessage: ignoring unknown encoding -131070
+25/02/20 20:50:44 rfbProcessClientNormalMessage: ignoring unknown encoding -131069
+25/02/20 20:50:44 rfbProcessClientNormalMessage: ignoring unknown encoding -309
+25/02/20 20:51:07 Client 124.123.116.229 gone
+25/02/20 20:51:07 Statistics:
+25/02/20 20:51:07   key events received 0, pointer events 339
+25/02/20 20:51:07   framebuffer updates 67, rectangles 651, bytes 215923
+25/02/20 20:51:07     LastRect markers 13, bytes 156
+25/02/20 20:51:07     cursor shape updates 16, bytes 1242
+25/02/20 20:51:07     cursor position updates 1, bytes 12
+25/02/20 20:51:07     copyRect rectangles 190, bytes 3040
+25/02/20 20:51:07     tight rectangles 431, bytes 211473
+25/02/20 20:51:07   raw bytes equivalent 3049543, compression ratio 14.420484
