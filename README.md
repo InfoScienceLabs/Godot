@@ -30,10 +30,10 @@ Often there arises a case where we need to run scripts on multiple systems due t
 
 ### Use Cases:  
 1) GUI Testing  
-2) datamining  
-3) small scale multi server computing (not ideal meant)  
-4) image processing across servers  
-5) distributed API testing. 
+2) Datamining  
+3) Small scale multi server computing (not ideal meant)  
+4) Image processing across servers  
+5) Distributed API testing. 
 
 ## Quick Setup:
 
