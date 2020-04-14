@@ -9,8 +9,8 @@ Often there arises a case where we need to run scripts on multiple systems due t
 so the godots helps in creating digitial ocean droplets as many as required and across multiple accounts. However these are subjected to the respective quotas available for the account.
  </p>
  
-### system requirements:
-#### server:
+### System Requirements:
+#### Server:
 <ul>
   <li>linux server </li>  
   <li>python 3.6+ </li>
@@ -19,7 +19,7 @@ so the godots helps in creating digitial ocean droplets as many as required and 
   <li>sentry</li>  
 </ul>
 
-#### client:
+#### Client:
 <ul>
    <li>linux server with specs required as per requirements  </li>
    <li>python 3.6+  </li>
@@ -28,7 +28,7 @@ so the godots helps in creating digitial ocean droplets as many as required and 
     <li>VNC (optional for GUI)  </li>
 </ul>  
 
-### use cases:  
+### Use Cases:  
 1) GUI Testing  
 2) datamining  
 3) small scale multi server computing (not ideal meant)  
