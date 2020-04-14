@@ -127,11 +127,11 @@ export FLASK_DEBUG=1
 After that you should be able to execute the `flask run` command normally.
 ## Screenshots:-
 
- ![](image/godot1.png)    
- ![](image/godot2.png)                          
- ![](image/godot3.png)     
- ![](image/godot4.png)    
- ![](image/godot5.png)                         
+ ![](image/godot1.jpg)    
+ ![](image/godot2.jpg)                          
+ ![](image/godot3.jpg)     
+ ![](image/godot4.jpg)    
+ ![](image/godot5.jpg)                         
  
 
 ## Authors
