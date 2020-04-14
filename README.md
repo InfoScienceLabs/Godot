@@ -7,18 +7,22 @@ so the godots helps in creating digitial ocean droplets as many as required and 
 
 ### system requirements:
 ##### server:
-linux server   
-python 3.6+   
-mysql 5.7+  
-rsync    
-sentry  
+<ul>
+  <li>linux server </li>  
+  <li>python 3.6+ </li>
+  <li>mysql 5.7+  </li>
+  <li>rsync    </li>
+  <li>sentry</li>  
+</ul>
 
 ##### client:
-linux server with specs required as per requirements  
-python 3.6+  
-rsync  
-sentry  
-VNC (optional for GUI)  
+<ul>
+   <li>linux server with specs required as per requirements  </li>
+   <li>python 3.6+  </li>
+   <li>rsync  </li>
+   <li>sentry  </li>
+    <li>VNC (optional for GUI)  </li>
+</ul>  
 
 ### use cases:  
 1) GUI Testing  
